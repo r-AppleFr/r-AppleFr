@@ -21,9 +21,9 @@ We don't lie to you, you'll be able to unlock the repo. But for that, you have t
 
 To work with us :
 - You need to know how to use GitHub (even if you will be given two or three tutorials again) 😇
-- You must know how to use Discord (this is the basis)
+- You must know how to use Discord (this is the basis) 
 - You need to know NodeJs, Yarn and know how to code in JavaScript 
-- You must be able to speak French and English 
+- You must be able to speak French and English 
 
 ## Application
 

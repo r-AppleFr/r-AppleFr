@@ -29,3 +29,8 @@ To work with us :
 
 Are you ready? All right, come on the server and contact us to (maybe) work with us. 
 
+# For developers
+
+You will find the following resources: 
+- Basic GitHub commands
+- The little Git's toy box (PDF)

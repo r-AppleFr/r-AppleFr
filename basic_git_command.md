@@ -7,7 +7,7 @@
 ## Add your local changes
 ``git add .``
 ## Commit your changes with a message
-``git commit -m "Your message"
+``git commit -m "Your message"``
 ## Push your code to GitHuv
 ``git push``
 ## Change branch
